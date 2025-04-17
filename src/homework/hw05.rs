@@ -1,6 +1,6 @@
 fn gcd(a: u32, b: u32) -> u32 {
     let mut a = a;
-    let mut b = b;
+    let mut b = b; 
 
     while b != 0 {
      let temp = b;
@@ -32,3 +32,4 @@ assert_eq!(*expected, gcd(*a, *b));
 fn main() {
     println!("Run");
 }
+// run cargo test to terminal 
