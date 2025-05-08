@@ -8,7 +8,7 @@ mod hw07;
 mod hw08;
 mod hw09;
 mod hw10;
-mod hw11;
+pub mod hw11;
 mod hw12;
 mod hw13;
 mod hw14;
