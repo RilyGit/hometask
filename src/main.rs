@@ -4,5 +4,5 @@ mod homework;
 mod practice;
 
 fn main() {
-    homework::hw11::run();
+    homework::hw12::main();
 }
