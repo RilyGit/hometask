@@ -11,5 +11,5 @@ mod hw10;
 pub mod hw11;
 pub mod hw12;
 pub mod hw13;
-mod hw14;
-mod hw15;
+pub mod hw14;
+pub mod hw15;
